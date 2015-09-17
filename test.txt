@@ -1,2 +1,6 @@
 creating a new branch is so quick
+
 this is master
+
+this is in the feature branch
+
